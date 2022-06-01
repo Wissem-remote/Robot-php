@@ -45,17 +45,32 @@ robot du nom de VX-2345 dira alors :
 
 Bonus 4  
 
-Oups ! Il s'avère que notre robot a une chance sur trois de devenir un robot tueur diabolique.
-Deux fois sur trois, le robot dira « Vous voulez un café ? »
-Une fois sur trois, le robot dira « Extermination ! Extermination ! »
-Bonus 5
-Pour nous assurer que notre robot ne tente pas de détruire notre civilisation, il va falloir l'occuper.
-En développant une conscience, il a aussi développé un subconscient. Nous allons injecter le programme suivant dans son cerveau :
-Le subconscient du robot génère un nombre aléatoire compris entre 1 et 1000. Stockez ce nombre dans une variable.
-Le robot ne peut pas s'empêcher de chercher à deviner ce nombre. La conscience n'a pas directement accès au subconscient. En
-d'autres termes, le robot ne peut pas utiliser la variable précédemment déclarée pour trouver ce nombre, il va devoir faire preuve de
-logique et la trouver par lui-même.
-• Une fois le nombre trouvé, il le criera fièrement.
-Bonus 6
+Oups ! Il s'avère que notre robot a une chance sur trois de devenir un robot tueur diabolique.  
+
+Deux fois sur trois, le robot dira « Vous voulez un café ? »  
+
+Une fois sur trois, le robot dira « Extermination ! Extermination ! »  
+
+Bonus 5  
+  
+Pour que notre robot ne tente pas de détruire notre civilisation, il va falloir l'occuper.  
+
+En développant une conscience, il a aussi développé un subconscient. Nous allons injecter le programme  
+suivant dans son cerveau :  
+
+Le subconscient du robot génère un nombre aléatoire compris entre 1 et 1000. Stockez ce nombre dans une  
+variable  
+        
+Le robot ne peut pas s'empêcher de chercher à deviner ce nombre. La conscience n'a pas directement accès  
+au subconscient. En  
+d'autres termes, le robot ne peut pas utiliser la variable précédemment déclarée pour trouver ce nombre,  
+il va devoir faire preuve de logique et la trouver par lui-même.  
+
+• Une fois le nombre trouvé, il le criera fièrement.  
+
+Bonus 6  
+  
+    
+    
 Il y a fort à parier que vous avez utilisé une boucle dans le bonus précédent afin de trouver le nombre. Pour ce besoin, une boucle n'est pas
 tres efficace. Mettez en place une recherche dichotomique. (:
